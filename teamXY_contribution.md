@@ -15,6 +15,7 @@ Use this template to describe your contribution to the project
 * [Contact](#contact)
 
 ## General info
+What this team has done is: blablablalba
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
