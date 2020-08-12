@@ -2,7 +2,7 @@
 Use this template to describe your contribution to the project
 
 # Project Name
-> Here goes your awesome project description!
+Project XYZ blabla
 
 ## Table of contents
 * [General info](#general-info)
